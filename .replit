@@ -1,2 +1,2 @@
 language = "java10"
-run = "java /src/Cup.java"
+run = "java src/CupRunner.java"

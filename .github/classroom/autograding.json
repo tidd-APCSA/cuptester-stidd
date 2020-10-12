@@ -12,8 +12,8 @@
     },
     {
       "name": "liquidTypeAgain",
-      "setup": "",
-      "run": "java test/CupTest",
+      "setup": "javac *.java",
+      "run": "java -cp . CupTest",
       "input": "",
       "output": "",
       "comparison": "included",

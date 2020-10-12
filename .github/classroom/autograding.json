@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "liquidType",
+      "name": "liquidTypeAgain",
       "setup": "",
       "run": "gradle test",
       "input": "",

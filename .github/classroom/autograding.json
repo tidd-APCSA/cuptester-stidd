@@ -1,16 +1,6 @@
 {
   "tests": [
     {
-      "name": "liquidType",
-      "setup": "",
-      "run": "gradle test",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 1
-    },
-    {
       "name": "liquidTypeAgain",
       "setup": "",
       "run": "gradle test",
